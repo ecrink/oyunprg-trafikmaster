@@ -27,7 +27,8 @@ Bu proje, Bursa Uludağ Üniversitesi YBS bölümü dersi Oyun Programlama dersi
 - GitHub üzerinden proje takibi
 
 ## 🎥 Sunum Videosu
-📺 
+📺 Projenin tanıtım videosunu buradan izleyebilirsiniz:  
+🔗 [YouTube Video Linki](https://www.youtube.com/watch?v=79mIFV5B5qo)
 
 ## 👤 Geliştirici
 - Ecrin Karabayraktar
